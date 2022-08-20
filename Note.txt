@@ -1,0 +1,1 @@
+IR2104 cần có ngưỡng sàn đển duty cycle không thể thấp hơn, tránh nóng mosfet
