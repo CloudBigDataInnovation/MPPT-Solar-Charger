@@ -6,5 +6,5 @@
 
 ## Authors
 
-	[Nguyen Van Dung](https://www.facebook.com/vanperdung/)
+	[Nguyen-Van-Dung](https://www.facebook.com/vanperdung/)
 
