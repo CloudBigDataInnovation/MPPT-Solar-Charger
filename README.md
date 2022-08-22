@@ -6,6 +6,6 @@
 
 ## Authors
 
-#	[Nguyen-Van-Dung](https://www.facebook.com/vanperdung/)
-# 	Phong-Ngu
-
+#	[Nguyen Van Dung](https://www.facebook.com/vanperdung/)
+# 	Phong Ngu
+#	Anh Ven Wjbu
