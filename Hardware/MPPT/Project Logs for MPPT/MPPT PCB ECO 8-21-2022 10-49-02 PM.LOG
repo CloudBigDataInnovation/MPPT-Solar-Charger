@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=BAT- Pin=P1-1
+Removed Pin From Net: NetName=+5 Pin=P1-2
+Removed Pin From Net: NetName=I2C_SDA Pin=P1-3
+Removed Pin From Net: NetName=I2C_SCL Pin=P1-4
+Removed Member From Class: ClassName=MPPT Member=P1
+Added Component: Designator=JP1(CON4)
+Add component (AddParameter): Name = "Value"; Value = "Connector 4"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BAT- Pin=JP1-1
+Added Pin To Net: NetName=+5 Pin=JP1-2
+Added Pin To Net: NetName=I2C_SDA Pin=JP1-3
+Added Pin To Net: NetName=I2C_SCL Pin=JP1-4
+Added Member To Class: ClassName=MPPT Member=Component JP1 JP4

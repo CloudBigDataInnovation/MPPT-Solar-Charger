@@ -1,0 +1,4 @@
+Change component parameters: Designator = "L1" ("L1"); Footprint = "L-SMD-M-7.3x4.5"; UniqueID = "\HVPWUKKF" ("\HVPWUKKF")
+Change component parameters (AddParameter): Name = "Value"; Value = "150 mH"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L2" ("L2"); Footprint = "L-SMD-M-7.3x4.5"; UniqueID = "\YNDXBQKK" ("\YNDXBQKK")
+Change component parameters (AddParameter): Name = "Value"; Value = "150 mH"; VariantName = "[No Variations]"
