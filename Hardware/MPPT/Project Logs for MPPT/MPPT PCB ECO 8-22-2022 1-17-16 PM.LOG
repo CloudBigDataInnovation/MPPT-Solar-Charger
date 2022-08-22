@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=ADC_ALRT Pin=U5-6
+Added Pin To Net: NetName=IR2104_EN Pin=U5-27
+Added Pin To Net: NetName=IR2104_PWM Pin=U5-28

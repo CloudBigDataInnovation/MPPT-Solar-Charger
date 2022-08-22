@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=GND_ANALOG Pin=C12-2
+Removed Pin From Net: NetName=GND_ANALOG Pin=C14-2
+Removed Pin From Net: NetName=GND_ANALOG Pin=C15-2
+Removed Pin From Net: NetName=GND_ANALOG Pin=C16-2
+Removed Pin From Net: NetName=GND_ANALOG Pin=C17-2
+Removed Pin From Net: NetName=GND_ANALOG Pin=C18-2
+Removed Pin From Net: NetName=GND_ANALOG Pin=C20-2
+Removed Pin From Net: NetName=GND_ANALOG Pin=C21-2
+Removed Pin From Net: NetName=GND_ANALOG Pin=IC1-5
+Removed Pin From Net: NetName=GND_ANALOG Pin=IC2-5
+Removed Pin From Net: NetName=GND_ANALOG Pin=R9-1
+Removed Pin From Net: NetName=GND_ANALOG Pin=R14-1
+Added Pin To Net: NetName=BAT- Pin=C12-2
+Added Pin To Net: NetName=BAT- Pin=C14-2
+Added Pin To Net: NetName=BAT- Pin=C15-2
+Added Pin To Net: NetName=BAT- Pin=C16-2
+Added Pin To Net: NetName=BAT- Pin=C17-2
+Added Pin To Net: NetName=BAT- Pin=C18-2
+Added Pin To Net: NetName=BAT- Pin=C20-2
+Added Pin To Net: NetName=BAT- Pin=C21-2
+Added Pin To Net: NetName=BAT- Pin=IC1-5
+Added Pin To Net: NetName=BAT- Pin=IC2-5
+Added Pin To Net: NetName=BAT- Pin=R9-1
+Added Pin To Net: NetName=BAT- Pin=R14-1
+Added Room: Name=MPPT

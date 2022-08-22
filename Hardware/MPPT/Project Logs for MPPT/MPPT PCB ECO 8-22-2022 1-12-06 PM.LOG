@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=IR2104_EN Pin=U5-7
+Removed Pin From Net: NetName=IR2104_PWM Pin=U5-8
+Removed Pin From Net: NetName=ADC_SCL Pin=U5-22
+Removed Pin From Net: NetName=ADC_SDA Pin=U5-25
+Added Pin To Net: NetName=ADC_SCL Pin=U5-7
+Added Pin To Net: NetName=ADC_SDA Pin=U5-8
+Added Pin To Net: NetName=IR2104_EN Pin=U5-13
+Added Pin To Net: NetName=IR2104_PWM Pin=U5-15
